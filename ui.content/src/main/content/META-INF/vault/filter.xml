@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/sdm"/>
+    <filter root="/content/sdm"/>
+    <filter root="/content/dam/sdm"/>
+</workspaceFilter>
