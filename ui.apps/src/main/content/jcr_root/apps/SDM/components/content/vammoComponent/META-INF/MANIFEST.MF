@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Content-Package-Roots: /apps/SDM/components/content/vammo
-Content-Package-Type: application
-Content-Package-Id: sdm:vammoComponent
-
